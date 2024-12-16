@@ -18,5 +18,6 @@ This script is for **educational purposes only**.
 I take no responsibility for any issues that may arise by using it.
 
 ## Showcase
-![image](Webhooks](https://imgur.com/JR6vhJ6))
-![image]([Triggers](https://imgur.com/d88wRfO))
+![Webhooks](https://imgur.com/JR6vhJ6)
+![Triggers](https://imgur.com/d88wRfO)
+
