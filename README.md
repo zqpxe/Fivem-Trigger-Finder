@@ -16,3 +16,7 @@ pip install requests pathlib colorama
 ## Disclaimer:
 This script is for **educational purposes only**.  
 I take no responsibility for any issues that may arise by using it.
+
+## Showcase
+![Webhooks](https://i.imgur.com/your-image-id.png](https://imgur.com/JR6vhJ6))
+![Triggers]([https://url-to-your-image.com](https://imgur.com/d88wRfO))
